@@ -172,7 +172,7 @@
   />
   
 <img
-    align="left" 
+    align="right" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vitor-Ribe&layout=compact&langs_count=8&theme=tokyonight&custom_title=Linguagens&langs_count=9"
